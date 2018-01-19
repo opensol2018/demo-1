@@ -6,11 +6,11 @@
       "hora": "12:15",
       "direccion": "Nueva Providencia 2353",
       "comuna": "Providencia",
-      "titles": [
+      "titles": {
         "title1":"Metrogas",
         "title2":"Entrega Toner JJO",
         "title3":"Urgencia por contrato marco gobierno"
-      ],
+      },
       "indicador": [
         2,
         1,
@@ -26,10 +26,10 @@
         "San Bernardo",
         "Maipu"
       ],
-      "titles": [
+      "title1": {
         "title1":"Watts",
         "title2":"Entrega Impresora ABC"
-      ],
+      },
       "indicador": [
         1,
         1,
@@ -42,10 +42,10 @@
       "hora": "12:15",
       "direccion": "Nueva Providencia 2353",
       "comuna": "Providencia",
-      "titles": [
+      "titles": {
         "title1":"Metrogas",
         "title2":"Entrega Toner JJO"
-      ],
+      },
       "indicador": [
         1,
         1,
@@ -58,10 +58,10 @@
       "hora": "12:15",
       "direccion": "Av Libertador Bernardo O'Higgins 3750",
       "comuna": "Santiago",
-      "titles": [
+      "titles": {
         "title1":"Turbus",
         "title2":"Entrega Impresora ABC"
-      ],
+      },
       "indicador": [
         1,
         2,
@@ -74,10 +74,10 @@
       "hora": "12:15",
       "direccion": "Av Libertador Bernardo O'Higgins 3750",
       "comuna": "Santiago",
-      "titles": [
+      "titles": {
         "title1":"Turbus",
         "title2":"Entrega Impresora ABC"
-      ],
+      },
       "indicador": [
         1,
         1,
@@ -90,10 +90,10 @@
       "hora": "12:15",
       "direccion": "Nueva Providencia 2353",
       "comuna": "Providencia",
-      "titles": [
+      "titles": {
         "title1":"Metrogas",
         "title2":"Entrega Toner JJO"
-      ],
+      },
       "indicador": [
         1,
         1,
