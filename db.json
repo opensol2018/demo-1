@@ -1,104 +1,34 @@
 {
-  "TodoMobileReport": [
+  "DynamicForm": [
     {
-      "id": 56,
-      "fecha": "10-01-2018",
-      "hora": "12:15",
-      "direccion": "Nueva Providencia 2353",
-      "comuna": "Providencia",
-      "titles": {
-        "title1":"Metrogas",
-        "title2":"Entrega Toner JJO",
-        "title3":"Urgencia por contrato marco gobierno"
-      },
-      "indicador": [
-        2,
-        1,
-        0
-      ]
+      "id": 1,
+      "name": "Nombre",
+      "label": "nombre",
+      "type": "text"
     },
     {
-      "id": 101,
-      "fecha": "14-01-2018",
-      "hora": "12:15",
-      "direccion": "Camino a Lonquén",
-      "comuna": [
-        "San Bernardo",
-        "Maipu"
-      ],
-      "title1": {
-        "title1":"Watts",
-        "title2":"Entrega Impresora ABC"
-      },
-      "indicador": [
-        1,
-        1,
-        0
-      ]
+      "id": 2,
+      "name": "Edad",
+      "label": "edad",
+      "type": "number"
     },
     {
-      "id": 120,
-      "fecha": "18-01-2018",
-      "hora": "12:15",
-      "direccion": "Nueva Providencia 2353",
-      "comuna": "Providencia",
-      "titles": {
-        "title1":"Metrogas",
-        "title2":"Entrega Toner JJO"
-      },
-      "indicador": [
-        1,
-        1,
-        0
-      ]
+      "id": 3,
+      "name": "Mail",
+      "label": "mail",
+      "type": "mail"
     },
     {
-      "id": 500,
-      "fecha": "22-01-2018",
-      "hora": "12:15",
-      "direccion": "Av Libertador Bernardo O'Higgins 3750",
-      "comuna": "Santiago",
-      "titles": {
-        "title1":"Turbus",
-        "title2":"Entrega Impresora ABC"
-      },
-      "indicador": [
-        1,
-        2,
-        0
-      ]
+      "id": 4,
+      "name": "Carrera",
+      "label": "carrera",
+      "type": "text"
     },
     {
-      "id": 501,
-      "fecha": "25-01-2018",
-      "hora": "12:15",
-      "direccion": "Av Libertador Bernardo O'Higgins 3750",
-      "comuna": "Santiago",
-      "titles": {
-        "title1":"Turbus",
-        "title2":"Entrega Impresora ABC"
-      },
-      "indicador": [
-        1,
-        1,
-        0
-      ]
-    },
-    {
-      "id": 502,
-      "fecha": "27-01-2018",
-      "hora": "12:15",
-      "direccion": "Nueva Providencia 2353",
-      "comuna": "Providencia",
-      "titles": {
-        "title1":"Metrogas",
-        "title2":"Entrega Toner JJO"
-      },
-      "indicador": [
-        1,
-        1,
-        0
-      ]
+      "id": 5,
+      "name": "Fecha Nacimiento",
+      "label": "nacimiento",
+      "type": "date"
     }
-  ]
+   ]
 }
