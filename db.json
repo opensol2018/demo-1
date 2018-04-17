@@ -31,6 +31,12 @@
       "label": "Estado Civil",
       "type": "dropdown",
       "selectedValue": null
+    },
+     {
+      "id": 6,
+      "value": "otros",
+      "label": "Otros",
+      "type": "text"
     }
    ]
 }
