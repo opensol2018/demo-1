@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "value": [{label: 'soltero', value: 0 },{label: 'casado', value: 1 }]
+      "value": [{label: 'soltero', value: 0 },{label: 'casado', value: 1 }],
       "label": "Estado Civil",
       "type": "radio"
     },
