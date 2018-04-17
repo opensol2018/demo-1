@@ -20,15 +20,17 @@
     },
     {
       "id": 4,
-      "value": [{"label": "soltero", "value": 0 },{"label": "casado", "value": 1 }],
+      "value": [{"label": "seleccione", "value": -1 },{"label": "soltero", "value": 0 },{"label": "casado", "value": 1 }],
       "label": "Estado Civil",
-      "type": "radio"
+      "type": "radio",
+      "selectedValue": -1
     },
     {
       "id": 5,
       "value": ["femenino","masculino","otro"],
       "label": "Sexo",
-      "type": "dropdown"
+      "type": "dropdown",
+      "selectedValue": null
     }
    ]
 }
