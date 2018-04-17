@@ -2,32 +2,32 @@
   "DynamicForm": [
     {
       "id": 1,
-      "name": "Nombre",
-      "label": "nombre",
+      "value": "nombre",
+      "label": "Nombre",
       "type": "text"
     },
     {
       "id": 2,
-      "name": "Edad",
-      "label": "edad",
-      "type": "number"
-    },
-    {
-      "id": 3,
-      "name": "Mail",
-      "label": "mail",
-      "type": "mail"
-    },
-    {
-      "id": 4,
-      "name": "Carrera",
-      "label": "carrera",
+      "value": "edad",
+      "label": "Edad",
       "type": "text"
     },
     {
+      "id": 3,
+      "value": "mail",
+      "label": "Mail",
+      "type": "text"
+    },
+    {
+      "id": 4,
+      "value": [{label: 'soltero', value: 0 },{label: 'casado', value: 1 }]
+      "label": "Estado Civil",
+      "type": "radio"
+    },
+    {
       "id": 5,
-      "name": "Fecha Nacimiento",
-      "label": "nacimiento",
+      "value": "nacimiento",
+      "label": "Fecha Nacimiento",
       "type": "date"
     }
    ]
