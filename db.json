@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "value": "nacimiento",
-      "label": "Fecha Nacimiento",
-      "type": "date"
+      "value": ["femenino","masculino","otro"],
+      "label": "Sexo",
+      "type": "dropdown"
     }
    ]
 }
